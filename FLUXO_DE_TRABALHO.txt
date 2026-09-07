@@ -1,0 +1,17 @@
+PASSO A PASSO - GITHUB
+
+1) Entre no GitHub e crie um repositório novo.
+2) Clique em Add file > Upload files.
+3) Extraia este ZIP no computador e envie TODAS as pastas e arquivos para a raiz do repositório.
+4) Confirme o upload em Commit changes.
+5) Abra a aba Actions.
+6) Escolha: Compilar APK - Mapa de Falhas.
+7) Clique em Run workflow.
+8) Aguarde aparecer o sinal verde.
+9) Abra a execução concluída.
+10) Em Artifacts, baixe: LOTOFACIL-MAPA-FALHAS-APK.
+11) Extraia o artifact; dentro estará app-debug.apk.
+12) Passe o APK para o celular e instale.
+
+O aplicativo terá rótulo roxo, trevo branco, seletor de arquivo, intervalo de concursos,
+mapa das 25 posições, palpite das 10 falhas e jogo complementar de 15 dezenas.
